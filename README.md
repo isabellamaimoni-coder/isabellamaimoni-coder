@@ -1,16 +1,23 @@
 ## Hi there 👋
-
-<!--
-**isabellamaimoni-coder/isabellamaimoni-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>
+  OLÁ! EU SOU A ISABELLA
+</h2>
+<br>
+<p> 
+   - Sou estudante de Tecnologia da Informação e estou aprendendo cada vez mais sobre programação, desenvolvimento de sites e redes. 
+   - Gosto de tecnologia 
+   - Estou sempre aprendendo coisas novas 
+   - Tenho interesse em desenvolvimento web 
+   - Quero evoluir cada vez mais na área de TI
+</p>
+<h2>
+  ATUALMENTE ESTUDANDO 
+</h2>
+<p>
+HTML e CSS 
+   - Bootstrap  
+   - Python 
+   - Redes de computadores 
+   - Git e GitHub  
+   - Desenvolvimento Web
+</p>
