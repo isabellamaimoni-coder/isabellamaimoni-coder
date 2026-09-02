@@ -1,6 +1,5 @@
 <h2>
-    OLÁ! EU SOU A ISABELLA e sou futura namorada do Matheus maty
-    
+    OLÁ! EU SOU A ISABELLA 
 </h2>
 <img src="./eu.jpg" alt="">
 <br>
